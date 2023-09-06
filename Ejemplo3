@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+<frameset cols="30%, *">
+  <frame src="pagina1.html"></frame>
+  <frameset rows="40%, *">
+      <frame src="pagina2.html"></frame>
+      <frame src="pagina3.html"></frame>
+  </frameset>
+</frameset>
+</html>
